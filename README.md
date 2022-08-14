@@ -37,7 +37,7 @@
 
 ▂ ▃ ▅ ▆  rm -rf Hide-Me-PAYELTON-XD
 
-▂ ▃ ▅ ▆  git clone https://github.com/TermuxTalha/Hide-Me-PAYELTON-XD.git
+▂ ▃ ▅ ▆  git clone https://github.com/PAYELTON-XD.git
 
 ▂ ▃ ▅ ▆  cd Hide-Me-PAYELTON-XD
 
