@@ -35,7 +35,7 @@
 
 ▂ ▃ ▅ ▆  pip2 install mechanize 
 
-▂ ▃ ▅ ▆  rm -rf Hide-Me-PAYELTON-XD/
+▂ ▃ ▅ ▆  rm -rf Hide-Me-PAYELTON-XD
 
 ▂ ▃ ▅ ▆  git clone https://github.com/TermuxTalha/Hide-Me-PAYELTON-XD.git
 
