@@ -1,10 +1,10 @@
-# Hide-Me-Talhavai Full Command
+# Hide-Me-PAYELTON-XD Full Command
 
 ▂ ▃ ▅ ▆ python2 File source code hide  ▆ ▅ ▃ ▂
 
 ▂ ▃ ▅ ▆   fast Encrypted Tools 2022  ▆ ▅ ▃ ▂
 
-▂ ▃ ▅ ▆  Talha python2 File Encrypted Tools  █ ▆ ▅ ▃ ▂
+▂ ▃ ▅ ▆  PAYELTON-XD python2 File Encrypted Tools  █ ▆ ▅ ▃ ▂
 
 
 
@@ -35,19 +35,17 @@
 
 ▂ ▃ ▅ ▆  pip2 install mechanize 
 
-▂ ▃ ▅ ▆  rm -rf Hide-Me-Talhavai
+▂ ▃ ▅ ▆  rm -rf Hide-Me-PAYELTON-XD/
 
-▂ ▃ ▅ ▆  git clone https://github.com/TermuxTalha/Hide-Me-Talhavai.git
+▂ ▃ ▅ ▆  git clone https://github.com/TermuxTalha/Hide-Me-PAYELTON-XD.git
 
-▂ ▃ ▅ ▆  cd Hide-Me-Talhavai
+▂ ▃ ▅ ▆  cd Hide-Me-PAYELTON-XD
 
 ▂ ▃ ▅ ▆  python2 Encrypted.py
 
 
 
- ▂ ▃ ▅ ▆ JOIN MY TELEGRAM GROUP : https://t.me/talhatechnology
-
-▂ ▃ ▅ ▆  Join my WhatsApp group : https://chat.whatsapp.com/Bherp2QiChNH5rffkuzQpc
+ ▂ ▃ ▅ ▆ FOLLOW ME FACEBOOK : https://www.facebook.com/Normal.user.fake.dio.na
 
 
-▂ ▃ ▅ ▆ Thanks for Using Hide-me-Talhavai TOOLS  🤠  ▆ ▅ ▃ ▂
+▂ ▃ ▅ ▆ Thanks for Using PAYELTON-XD TOOLS  🤠  ▆ ▅ ▃ ▂
